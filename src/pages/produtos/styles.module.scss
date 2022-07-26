@@ -4,3 +4,28 @@
     background: url(../../assets/background.jpg) center center no-repeat;
     background-size: cover;
 }
+
+.header{
+    
+    align-items: center;
+    max-width: 90%;
+    height: 50px;
+    margin: auto;
+    margin-top: 2rem;
+    border: 1px solid white;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+}
+
+.text1{
+    color: #FF8E02;
+    text-decoration: underline;
+}
+
+.text{
+    color: #fff;
+}
